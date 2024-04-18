@@ -25,7 +25,7 @@ The following gif shows how buffer can be easily inserted and removed from the w
 </p>
 
 # 3D models
-<a>3D design models are available here:\n</a>
+<a>3D design models are available here:</a><br>
 <a href="3D_models/Washing_chamber_v4.STL" download>STL</a><br>
 <a href="Washing_chamber_v4.STEP" download>STEP</a>
 
