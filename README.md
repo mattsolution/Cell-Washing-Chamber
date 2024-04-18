@@ -16,4 +16,6 @@ The chamber enables gentle washing of the cells while ensuring easy retrieval of
 </div>
 <p align="center">Figure 2: Buffer loading and unloading illustration </p>
 
-![Alt Text](https://github.com/mattsolution/Cell-Washing-Chamber/blob/main/videos/Whashing_chamber.gif)
+<p align="center">
+  <img src="https://github.com/mattsolution/Cell-Washing-Chamber/blob/main/videos/Whashing_chamber.gif" alt="Alt Text">
+</p>
