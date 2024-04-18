@@ -11,10 +11,14 @@ The chamber enables gentle washing of the cells while ensuring easy retrieval of
 </div>
 <p align="center">Figure 1: Side cut of the chamber. The glass cover slip is in position</p>
 
+Two niches are provided for the insertion and retrieval of the buffer using a micropipette. Additionally, grooves facilitate the proper flow of the buffer during retrieval which was not optimal in previous groveless versions.
+
 <p align="center">
   <img src="figures/Washing_chamber_illustration1.png" width="300px" />
 </div>
 <p align="center">Figure 2: Buffer loading and unloading illustration </p>
+
+THe following gif shows how buffer can be easily inserted and removed from the washing chamber ([Full video](https://youtu.be/eTJ1GoubKlY))
 
 <p align="center">
   <img src="https://github.com/mattsolution/Cell-Washing-Chamber/blob/main/videos/Whashing_chamber.gif" alt="Alt Text">
