@@ -26,8 +26,8 @@ The following gif shows how buffer can be easily inserted and removed from the w
 
 # 3D models
 3D design models are available here:
-[STL](3D_models/Washing_chamber_v4.STEP)
-[STEP]([3D_models/Washing_chamber_v4.STL))
+<a href="3D_models/Washing_chamber_v4.STL" download>STL</a><br>
+<a href="Washing_chamber_v4.STEP" download>STEP</a>
 
 # Attribution and license
 Designed by Matteo Scarsini in collaboration with Petre Bulankva and Paul Triquard at the Phytogenomics lab, IBENS, Paris
