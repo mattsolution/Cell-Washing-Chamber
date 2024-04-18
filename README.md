@@ -23,3 +23,12 @@ The following gif shows how buffer can be easily inserted and removed from the w
 <p align="center">
   <img src="https://github.com/mattsolution/Cell-Washing-Chamber/blob/main/videos/Whashing_chamber.gif" alt="Alt Text">
 </p>
+
+# 3D models
+3D design models are available here:
+[STL](3D_models/Washing_chamber_v4.STEP)
+[STEP]([3D_models/Washing_chamber_v4.STL))
+
+# Attribution and license
+Designed by Matteo Scarsini in collaboration with Petre Bulankva and Paul Triquard at the Phytogenomics lab, IBENS, Paris
+The washing chamber is licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
