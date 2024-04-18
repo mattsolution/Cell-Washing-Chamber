@@ -18,7 +18,7 @@ Two niches are provided for the insertion and retrieval of the buffer using a mi
 </div>
 <p align="center">Figure 2: Buffer loading and unloading illustration </p>
 
-THe following gif shows how buffer can be easily inserted and removed from the washing chamber ([Full video](https://youtu.be/eTJ1GoubKlY))
+The following gif shows how buffer can be easily inserted and removed from the washing chamber (Full video [here](https://youtu.be/eTJ1GoubKlY))
 
 <p align="center">
   <img src="https://github.com/mattsolution/Cell-Washing-Chamber/blob/main/videos/Whashing_chamber.gif" alt="Alt Text">
