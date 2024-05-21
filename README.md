@@ -30,5 +30,5 @@ The following gif shows how buffer can be easily inserted and removed from the w
 
 
 # Attribution and license
-Designed by Matteo Scarsini in collaboration with Petre Bulankva and Paul Triquard at the Phytogenomics lab, IBENS, Paris
+Designed by Matteo Scarsini in collaboration with Petre Bulankva and Paul Triquard and the help of Thomas Pujol at the Phytogenomics lab, IBENS, Paris
 The washing chamber is licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
